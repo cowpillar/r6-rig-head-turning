@@ -1,2 +1,2 @@
 # Roblox-R6-Rig-with-Head-Turning-Idle-Animation
-An R6 character rig with head tracking for nearby players and an idle animation. Modified from SimTek Game Development's R15 rig.
+An R6 character rig with head tracking for nearby players and an idle animation. Modified from <a href="https://youtu.be/UhuL1lQvkjc?si=9dldR9Wbcarw5Yko">SimTek Game Development's R15 rig</a>.
